@@ -13,7 +13,7 @@ With 20+ years of enterprise experience spanning Wall Street, global entertainme
 
 I help streaming platforms, media enterprises, and consumer brands bridge the gap between technical infrastructure and daily user execution.
 
-[📩 Hire Me / Book a Consultation](mailto:your.email@example.com) • [👔 Connect on LinkedIn](https://linkedin.com) • [🌐 Portfolio / Services](https://yourwebsite.com)
+[📩 Hire Me / Book a Consultation](bwit73@gmail.com) • [👔 Connect on LinkedIn]([https://linkedin.com](https://www.linkedin.com/services/page/368a603117bb59b105/)) • [🌐 Portfolio / Services](https://yourwebsite.com)
 
 ---
 
