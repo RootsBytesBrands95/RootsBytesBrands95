@@ -1,6 +1,7 @@
 Here's the same content wrapped as a clean Markdown block that you can copy directly into your GitHub profile README (`README.md`):
 
 ````markdown
+````
 # Hi there, I'm KD! 👋
 
 I am a **Principal Content Operations Architect & Systems Consultant** operating at the cross-functional intersection of Digital Asset Architecture, IT Operations, and Knowledge Engineering.
@@ -13,7 +14,7 @@ With 20+ years of enterprise experience spanning Wall Street, global entertainme
 
 I help streaming platforms, media enterprises, and consumer brands bridge the gap between technical infrastructure and daily user execution.
 
-[📩 Hire Me / Book a Consultation](bwit73@gmail.com) • [👔 Connect on Calendly [https://calendly.com/murrainkd_roots_bytes_brands_studio/30minm] (https://www.linkedin.com/services/page/368a603117bb59b105/)) • [🌐 Portfolio / Services]([https://yourwebsite.com](https://www.linkedin.com/services/page/368a603117bb59b105?lipi=urn%3Ali%3Apage%3Ad_flagship3_services_page%3B1l59ptZoS%2B2%2BYMCWa25dfw%3D%3D))
+[📩 Hire Me / Book a Consultation](mailto:bwit73@gmail.com) • [📅 Book a Call on Calendly](https://calendly.com/murrainkd_roots_bytes_brands_studio/30minm) • [🌐 Portfolio / Services](https://www.linkedin.com/services/page/368a603117bb59b105)
 
 ---
 
@@ -35,7 +36,7 @@ Digital Asset Architecture
            │
            ▼
 Documentation & LLM Training
-````
+```
 
 | IT & System Support            | Digital Asset Architecture   | Documentation & LLM Training   |
 | ------------------------------ | ---------------------------- | ------------------------------ |
@@ -96,9 +97,6 @@ Synchronizing cross-functional marketing campaigns while utilizing AI/LLM framew
 ## 💬 My Philosophy
 
 > *"I look at technology through two lenses: the infrastructure and the end-user. I ensure systems are architected correctly on the backend, secured and supported through IT pipelines, and documented so clearly that anyone can use them safely and efficiently."*
+````
 
-```
-```
-
-**Important:** When pasting into GitHub, remove the outermost opening and closing ```markdown fences. Those are only shown here so you can copy the entire structure cleanly. The inner `text` block for the workflow diagram should remain.
-
+One clean lift — select all, copy, paste into GitHub. ✅
