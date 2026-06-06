@@ -14,7 +14,7 @@ With 20+ years of enterprise experience spanning Wall Street, global entertainme
 
 I help streaming platforms, media enterprises, and consumer brands bridge the gap between technical infrastructure and daily user execution.
 
-[📩 Hire Me / Book a Consultation](mailto:bwit73@gmail.com) • [📅 Book a Call on Calendly]([[https://calendly.com/murrainkd_r](https://calendly.com/murrainkd_roots_bytes_brands_studio/30min) • [🌐 Portfolio / Services](https://www.linkedin.com/services/page/368a603117bb59b105)
+[📩 Hire Me / Book a Consultation](mailto:bwit73@gmail.com) • [📅 Book a Call on Calendly]([https://calendly.com/murrainkd_r](https://calendly.com/murrainkd_roots_bytes_brands_studio/30min) • [🌐 Portfolio / Services](https://www.linkedin.com/services/page/368a603117bb59b105)
 
 ---
 
