@@ -96,4 +96,3 @@ Synchronizing cross-functional marketing campaigns while utilizing AI/LLM framew
 > *"I look at technology through two lenses: the infrastructure and the end-user. I ensure systems are architected correctly on the backend, secured and supported through IT pipelines, and documented so clearly that anyone can use them safely and efficiently."*
 ````
 
-One clean lift — select all, copy, paste into GitHub. ✅
