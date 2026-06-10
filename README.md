@@ -1,4 +1,4 @@
-Here's the same content wrapped as a clean Markdown block that you can copy directly into your GitHub profile README (`README.md`):
+
 
 ````markdown
 ````
