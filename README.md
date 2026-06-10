@@ -1,5 +1,5 @@
 
-# Hi there, I'm KD! 👋
+# Hi there, I'm KD! 👋🏾
 
 I am a **Principal Content Operations Architect & Systems Consultant** operating at the cross-functional intersection of Digital Asset Architecture, IT Operations, and Knowledge Engineering.
 
