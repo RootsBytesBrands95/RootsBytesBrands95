@@ -6,14 +6,19 @@ I am a **Principal Content Operations Architect & Systems Consultant** operating
 With 20+ years of enterprise experience spanning Wall Street, global entertainment titans, and fast-paced startups, **I don't just execute workflows—I design how they function, how they scale, secure them via IT infrastructure, and train teams to adopt them.**
 
 ---
-## 💬 My Philosophy
-
-> *"I look at technology through two lenses: the infrastructure and the end-user. I ensure systems are architected correctly on the backend, secured and supported through IT pipelines, and documented so clearly that anyone can use them safely and efficiently."*
----
 
 ## 💼 Open for Consulting, Fractional Leadership & Enterprise Advisory
 
 I help streaming platforms, media enterprises, and consumer brands bridge the gap between technical infrastructure and daily user execution.
+
+
+
+
+https://github.com/user-attachments/assets/2ed03282-864d-4a7a-addb-dac84f2d0310
+
+
+
+
 
 [📩 Hire Me / Book a Consultation](mailto:bwit73@gmail.com) • [📅 Book a Call on Calendly]([[https://calendly.com/murrainkd_r]](https://calendly.com/murrainkd_roots_bytes_brands_studio/30min)(https://calendly.com/murrainkd_roots_bytes_brands_studio/30min) • [🌐 Portfolio / Services](https://www.linkedin.com/services/page/368a603117bb59b105)
 
